@@ -1,3 +1,2 @@
 # Python-programming-exercises
-[From page] by zhiwehu  (https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
-
+[From page](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt) by zhiwehu
